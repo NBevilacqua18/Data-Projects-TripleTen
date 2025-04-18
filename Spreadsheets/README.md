@@ -58,6 +58,9 @@ From cleaned data:
 - **Target properties with consistent booking histories**, as shown by high review counts.
 - Use **estimated annual revenue** to filter and prioritize listings for acquisition.
 ---
+## 📅 Completion Date
+**November 2024**
+---
 ## 🛠 Skills Demonstrated
 - Spreadsheet data cleaning
 - Pivot table analysis
