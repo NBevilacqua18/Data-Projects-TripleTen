@@ -73,7 +73,7 @@ The dataset was provided via the `raw_user_activity` tab in a Google Spreadsheet
 - Business storytelling and executive reporting
 - Spreadsheet documentation and formatting best practices
 ---
-## 🗂 File Structure (Google Sheets)
+## 🗂 File Structure
 | Sheet Name          | Description                                               |
 |---------------------|-----------------------------------------------------------|
 | `Table of Contents` | Organized index of all sheets with descriptions           |
