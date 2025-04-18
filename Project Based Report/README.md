@@ -5,7 +5,7 @@ This project marks the beginning of my journey into the world of Business Intell
 Fresh Beats not only delivers music to fans but also empowers emerging artists through its unique promotional model. The goal of this project was to evaluate the platform’s performance and uncover opportunities to enhance artist visibility, improve user engagement, and optimize genre promotion.
 ---
 ## 📁 Deliverables
-- 📝 [Final Project Report (Google Doc)](https://docs.google.com/document/d/1tQNHynR9vBV73bZnS3XpYA_TqFo0evm3q9PrV27ieaE/edit?usp=sharing)
+- 📝 [Project Report](https://github.com/NBevilacqua18/Data-Projects-TripleTen/blob/main/Project%20Based%20Report/Project%20Status%20Report%20(1).pdf)
 - 📄 Visuals and insights applied directly from the provided dataset.
 - 💡 Independent analysis connecting business challenges to data trends and outcomes.
 ---
