@@ -10,4 +10,4 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | 5 | [Tableau](PROJECT DIRECTORY LINK) | Data Visualization with Tableau |
 | 6 | [Storytelling with Data](PROJECT DIRECTORY LINK) | Telling the stories of data in Tableau |
 | 7 | [Power BI](PROJECT DIRECTORY LINK) | Build a Power BI report |
-| 8 | [Final Project](PROJECT DIRECTORY LINK) | Applying All of the Analytics Tools |
+| 8 | [Final Project](https://github.com/NBevilacqua18/Data-Projects-TripleTen/tree/f02c1805cb2aaeb54fda2d2652b66f7a303dbfa3/Final%20Project) | Applying All of the Analytics Tools |
