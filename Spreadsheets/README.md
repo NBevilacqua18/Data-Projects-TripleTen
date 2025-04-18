@@ -66,5 +66,5 @@ From cleaned data:
 - Data storytelling through charts and summaries
 ---
 ## 🔗 Resources
-- [NYC Airbnb Data (public dataset)](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
-- [Final Project Workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/1QFZ13Zlo8oKNHVcgCdZ9M411eoY5uoicV6C6gsH0Wsk/edit?usp=sharing)
+- [NYC Airbnb Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+- [Final Project Workbook](https://docs.google.com/spreadsheets/d/1QFZ13Zlo8oKNHVcgCdZ9M411eoY5uoicV6C6gsH0Wsk/edit?usp=sharing)
