@@ -74,7 +74,7 @@ You’ve already completed the first part of the project: writing code to parse 
 - Real-world relational schema analysis
 ---
 ## 📁 Project Files
-- 📄 SQL Queries & Notes: [Queries](https://tripleten.com/trainer/bi-analyst/lesson/32ddb20e-3ada-4aea-88d7-3ba42f2bd09c/task/d102902d-9759-41d6-8121-d35db6e9b511/)
+- 📄 [SQL Notes & Queries](https://docs.google.com/document/d/1Thk_gTE87kOuIffzIe0jaEEOAshN7nyBdYGPYx4iZN0/edit?usp=sharing)
 - 🧾 Query Output and Insights Summary
 ---
 ## 📅 Completion Date
