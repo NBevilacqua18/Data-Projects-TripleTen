@@ -17,6 +17,6 @@
 - Complete the report using the provided **Google Docs template** and share it in the correct format.
 ---
 ## 📅 Timeline
-- Sprint 0 Project Duration: ~1.5 hours
+- Estimated Time: 1 hour and 30 minutes
 - Completed and submitted on: 11-2-2024
 ---
