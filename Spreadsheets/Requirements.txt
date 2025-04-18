@@ -11,7 +11,6 @@
 - Data was sourced from real-world NYC Airbnb datasets.
 ---
 ## 🏢 Client Background
-
 - The client is interested in entering the **Manhattan vacation rental market**.
 - They want to make data-informed decisions on where and what kind of properties to invest in.
 - The client values both **attractiveness (demand)** and **revenue potential** in their evaluation process.
