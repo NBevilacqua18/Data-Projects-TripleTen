@@ -1,0 +1,22 @@
+# 📄 Contextual Requirements Document
+## 🎯 Project Title:
+**Fresh Beats Business Intelligence Report
+## 🧑‍🎓 Role:
+**Junior Business Intelligence Analyst**
+---
+## ✅ Context and Purpose
+- This project was completed as part of the **TripleTen Data Analytics Bootcamp**.
+- It represents the first milestone in the Business Intelligence Analyst track (Sprint 0).
+- The purpose was to apply core BI concepts by interpreting pre-analyzed data and generating business-focused insights.
+- The focus was on **real-world application**: presenting insights that inform strategic decisions for a growing business.
+---
+## 📊 Project Scope
+- Use provided data, visuals, and insights (no original analysis required).
+- Select the most relevant insights and charts aligned with each business challenge.
+- Summarize findings and write recommendations that support Fresh Beats' growth strategy.
+- Complete the report using the provided **Google Docs template** and share it in the correct format.
+---
+## 📅 Timeline
+- Sprint 0 Project Duration: ~1.5 hours
+- Completed and submitted on: `11/2/2024`
+---
