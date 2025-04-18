@@ -1,10 +1,10 @@
 # 🚖 Zuber Ride-Sharing Analysis
-
+---
 ## 🧑‍🎓 Role
 **Junior Business Intelligence Analyst**
 ---
 ## 📌 Project Overview
-In this project, I applied my foundational SQL skills as part of **Sprint 2** in the TripleTen Business Intelligence program. Working as a data analyst for **Zuber**, a new ride-sharing company entering the Chicago market, I explored real-world taxi data to uncover insights that could guide strategic business decisions.
+In this project, I worked as a data analyst for **Zuber**, a new ride-sharing company entering the Chicago market, I explored real-world taxi data to uncover insights that could guide strategic business decisions.
 The analysis focused on two primary objectives:
 1. **Exploratory Data Analysis (EDA)** – Understanding ride volume patterns across different taxi companies and date ranges.
 2. **Hypothesis Testing** – Investigating whether weather conditions affect the duration of rides between two key neighborhoods: **The Loop** and **O’Hare International Airport**.
