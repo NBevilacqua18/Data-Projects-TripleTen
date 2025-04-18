@@ -10,20 +10,13 @@
 - The client was seeking **investment guidance**: which neighborhoods and property types yield the best returns.
 - Data was sourced from real-world NYC Airbnb datasets.
 ---
-## 🧾 Deliverables
-- 📈 Spreadsheet file with:
-  - Raw data and cleaned versions
-  - Documented cleaning steps
-  - Pivot tables and revenue calculations
-  - Bar charts for top insights
-  - Executive summary and assumptions log
-- 📝 Summary of findings and investment recommendations
----
-## 🛠 Tools Used
-- **Google Sheets / Excel** (pivot tables, formulas, charts)
-- **TripleTen Learning Platform** (project brief, tutorials, and rubric)
-- Logical functions: `IF()`, `SUMIF()`, `FILTER()`
-- Data visualization via bar charts
+## 📊 Analysis Scope
+- Build **pivot tables** to identify:
+  - Top 10 neighborhoods based on `number_of_reviews_ltm`.
+  - Most popular property sizes by overall demand and by neighborhood.
+  - Revenue earned by top listings.
+- Create **bar charts** to visualize demand and revenue trends.
+- Write an **executive summary** and include a **change log** for cleaning documentation.
 ---
 ## 📅 Timeline
 - Estimated Time: 2 hours 20 minutes
