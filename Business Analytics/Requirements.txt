@@ -1,0 +1,16 @@
+# 📄 Contextual Requirements Document
+## 🧑‍🎓 Analyst Role
+- Junior Business Intelligence Analyst
+---
+## ✅ Project Title
+- **Sprint 3: Business Analytics – Turning Event Logs into Business Metrics**
+---
+## 🎯 Project Context and Objective
+- This project was completed as part of **Sprint 3** of the TripleTen Business Intelligence Program.
+- The goal was to analyze **raw transactional event logs** from a fictional e-commerce company and convert them into **structured business metrics**.
+- The project focused on building a **conversion funnel**, creating **cohort-based retention models**, and delivering **executive-ready insights** in a well-organized spreadsheet.
+---
+## 📅 Timeline
+- Project Duration: ~1 hour 40 minutes (including analysis, documentation, formatting)
+- Completion Date: **December 2024**
+---
