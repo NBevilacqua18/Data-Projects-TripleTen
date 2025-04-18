@@ -78,7 +78,7 @@ You’ve already completed the first part of the project: writing code to parse 
 - 🧾 Query Output and Insights Summary
 ---
 ## 📅 Completion Date
-**November 2024**
+**December 2024**
 ---
 ## 📚 Learning Outcomes
 - Gained hands-on experience querying relational databases.
