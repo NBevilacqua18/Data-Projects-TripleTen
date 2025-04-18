@@ -4,7 +4,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Project Based Report](https://github.com/NBevilacqua18/Data-Projects-TripleTen/tree/86345eeba2523d34c827e7adbdac50e49cafbcd0/Project%20Based%20Report) | The importance of documenting the analytics process |
-| 2 | [Spreadsheets](PROJECT DIRECTORY LINK) | Spreadsheet Fundamentals |
+| 2 | [Spreadsheets](https://github.com/NBevilacqua18/Data-Projects-TripleTen/tree/eb30f38a11ec84f754762ad630b6289c2d56656e/Spreadsheets) | Spreadsheet Fundamentals |
 | 3 | [SQL](https://github.com/NBevilacqua18/Data-Projects-TripleTen/tree/86345eeba2523d34c827e7adbdac50e49cafbcd0/SQL) | Introduction to Data Collection and Storage |
 | 4 | [Business Analytics](https://github.com/NBevilacqua18/Data-Projects-TripleTen/tree/ac395f7c70709e88a36c3c04bf3d9b25f4711f45/Business%20Analytics) | Understand how analytics can support our business inquiries |
 | 5 | [Tableau](PROJECT DIRECTORY LINK) | Data Visualization with Tableau |
