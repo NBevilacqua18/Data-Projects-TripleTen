@@ -18,5 +18,5 @@
 ---
 ## 📅 Timeline
 - Sprint 0 Project Duration: ~1.5 hours
-- Completed and submitted on: `11/2/2024`
+- Completed and submitted on: 11-2-2024
 ---
