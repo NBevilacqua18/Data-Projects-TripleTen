@@ -1,0 +1,35 @@
+# 📄 Contextual Requirements Document
+## 🧑‍🎓 Analyst Role
+- Junior Business Intelligence Analyst
+---
+## ✅ Project Title
+- **Zuber Ride-Sharing Analysis – Sprint 2: Data Collection and Storage (SQL)**
+---
+## 🎯 Project Context and Objective
+- Completed as part of the **TripleTen Business Intelligence Program**, Sprint 2.
+- The project simulates a real-world data analysis scenario at **Zuber**, a new ride-sharing startup launching in **Chicago**.
+- Objective: Analyze external and internal factors that impact ride-sharing activity, using structured SQL queries on a relational database.
+- This sprint emphasized the importance of **data collection, storage, and querying** for business decision-making.
+---
+## 🏢 Company Background – Zuber
+- Zuber is entering the Chicago market as a **ride-sharing competitor**.
+- It needs to understand taxi usage patterns, market competition, and external influences (like weather) on ride demand and duration.
+- Gaining data-driven insights is crucial for optimizing launch strategy, operations, and pricing.
+---
+## 🗃️ Data Source and Structure
+- The analysis used a relational database consisting of four main tables:
+  - `neighborhoods`: Mapping of neighborhood IDs to names
+  - `cabs`: Taxi vehicle data and associated company
+  - `trips`: All historical taxi ride data (timestamps, distance, locations)
+  - `weather_records`: Hourly weather snapshots including temperature and descriptions
+- No direct link between `trips` and `weather_records`; JOIN operations were performed based on timestamp alignment (`start_ts = ts`).
+---
+## 📅 Timeline
+- Sprint Duration: ~15–30 minutes of active SQL querying, after lessons were completed.
+- Completion Date: **December 2024**
+---
+## 📚 Learning Outcomes
+- Demonstrated ability to work with normalized databases using SQL.
+- Gained experience interpreting business questions and writing corresponding queries.
+- Practiced joining datasets from multiple tables using logical keys and timestamps.
+- Built confidence in transforming raw data into **strategic business insights**.
