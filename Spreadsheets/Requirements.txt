@@ -10,18 +10,6 @@
 - The client was seeking **investment guidance**: which neighborhoods and property types yield the best returns.
 - Data was sourced from real-world NYC Airbnb datasets.
 ---
-## 🏢 Client Background
-- The client is interested in entering the **Manhattan vacation rental market**.
-- They want to make data-informed decisions on where and what kind of properties to invest in.
-- The client values both **attractiveness (demand)** and **revenue potential** in their evaluation process.
----
-## 🧹 Data Cleaning Requirements
-- Standardized inconsistent neighborhood names and saved in a new column: `neighborhood_clean`.
-- Cleaned empty bedroom values to represent studio apartments using: `bedrooms_clean`.
-- Created a flag column `top_listing` to label listings that match top neighborhood + property size criteria.
-- In the `calendar` sheet, added a `revenue_earned` column (set to adjusted_price if booked).
-- Used `SUMIF()` to roll up 30-day revenue to the listings sheet, and multiplied by 12 for annual estimates.
----
 ## 🧾 Deliverables
 - 📈 Spreadsheet file with:
   - Raw data and cleaned versions
