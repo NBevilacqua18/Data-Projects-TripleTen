@@ -5,7 +5,7 @@ This project was completed as part of **Storytelling with Data** in the **Triple
 As a **BI Analyst consultant** for a **Superstore**, I was tasked with identifying **root causes** behind the store’s **high volume of returned orders** and presenting a **story-driven dashboard** for the CEO. The analysis involved Tableau visualizations, a dashboard for monitoring returns, and a structured narrative that guides the CEO through the data insights.
 ---
 ## 📁 Project Link
-👉 **[View Tableau Story and Dashboard on Tableau Public](https://public.tableau.com/views/StorytellingwithData_17381914730120/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+👉 **[View Tableau Story and Dashboard on Tableau Public](https://public.tableau.com/shared/P9S8KS598?:display_count=n&:origin=viz_share_link)**  
 ---
 ## 🗃️ Dataset Description
 - Source: `Superstore.xls` dataset, supplemented by the `Returns` table.
