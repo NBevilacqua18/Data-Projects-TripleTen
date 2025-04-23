@@ -1,0 +1,31 @@
+# 📄 Contextual Requirements Document
+## 🎯 Project Title:
+**Shopify App Analysis – Power BI Report**
+## 🧑‍🎓 Role:
+**Junior Business Intelligence Analyst**
+---
+## ✅ Context and Purpose
+- This project was completed as part of the **TripleTen Data Analytics Bootcamp**.
+- It represents **Sprint 6** in the Business Intelligence Analyst track, focusing on **data visualization and analysis using Power BI**.
+- The purpose was to analyze data from the **Shopify App Store**, uncover trends in **app performance**, **user engagement**, and **developer responsiveness**, and present findings using **interactive Power BI dashboards**.
+- The focus was on applying **Power BI tools and DAX calculations** to generate insights that help stakeholders understand the **factors driving app success**.
+---
+## 📊 Project Scope
+- Use provided **shopify.xlsx** dataset, which includes four tables:
+  - `apps`, `apps_categories`, `categories`, and `reviews`.
+- Conduct **app landscape analysis**:
+  - Visualize review counts, ratings, and app distribution.
+- Perform **review analysis**:
+  - Create DAX-calculated fields like `helpful_reviews` and `developer_answered`.
+  - Explore how **developer responsiveness** impacts **user ratings**.
+- Conduct **developer-level analysis**:
+  - Examine performance metrics across developers using Power BI relationships and aggregations.
+- Create **three Power BI report pages**:
+  1. **App Landscape**
+  2. **Reviews**
+  3. **App Reviews (Developer Analysis)**
+- Submit **8 screenshots** capturing key visuals (due to .pbix file size constraints).
+---
+## 📅 Timeline
+- Estimated Time: **1 hour 30 minutes**
+- Completed and submitted on: **03-26-2025**
