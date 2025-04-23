@@ -65,7 +65,6 @@ Created multiple **worksheets** to uncover the causes behind returned orders:
 - ✅ Dashboard mockups (3 variations) and final template screenshots
 - ✅ Screen-recorded or PDF presentation of Tableau Story
 - ✅ `README.md` file (this document)
-- ✅ ZIP archive containing all project files (under 9 MB)
 ---
 ## 🗓 Completion Date
 **March 2025**
