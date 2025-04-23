@@ -1,0 +1,31 @@
+# 📄 Contextual Requirements Document
+## 🎯 Project Title:
+**Zomato Business Intelligence Report**
+## 🧑‍🎓 Role:
+**Junior Business Intelligence Analyst**
+---
+## ✅ Context and Purpose
+- This project was completed as part of the **TripleTen Data Analytics Bootcamp**.
+- It represents the **final milestone (Sprint 7)** in the Business Intelligence Analyst track, designed to simulate an **onboarding process** at a tech company.
+- The project required independently conducting a **full-cycle BI analysis**, including **planning (decomposition)**, **dashboard development**, and **reporting**.
+- The purpose was to analyze **business performance** within **Zomato**, a global restaurant aggregator and food delivery platform, focusing on one of three business areas: **Customer Analysis**, **Restaurant Analysis**, or **Sales Analysis**.
+- The focus was on **real-world application**: delivering actionable insights and strategic recommendations to stakeholders through **Power BI dashboards** and **comprehensive reports**.
+---
+## 📊 Project Scope
+- Select **Customer Analysis** as the research area:
+  - Analyze **customer segmentation**, **purchasing behavior**, and **engagement patterns**.
+- Conduct **decomposition (research planning)**:
+  - Define key questions, hypotheses, visualizations, and data preparation steps.
+- Use **Zomato test datasets** (`users`, `orders`, `restaurants`, `menu`, `food`):
+  - Join relevant tables (e.g., `users` and `orders`) to explore customer behavior.
+- Develop an **interactive Power BI dashboard**:
+  - Incorporate visualizations that answer the defined research questions.
+  - Ensure every visualization contributes to the story of customer engagement and segmentation.
+- Deliver a **final report**:
+  - Present insights, conclusions, and actionable recommendations to improve Zomato’s customer engagement strategies.
+---
+## 📅 Timeline
+- Estimated Time: **2 weeks total** (split into:
+  - **Decomposition Phase**: 3–5 days
+  - **Dashboard & Report Development**: 9–10 days)
+- Completed and submitted on: **04-12-2025**
