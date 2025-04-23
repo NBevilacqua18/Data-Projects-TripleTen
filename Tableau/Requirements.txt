@@ -1,0 +1,27 @@
+# 📄 Contextual Requirements Document
+## 🎯 Project Title
+- **Superstore Data Visualization with Tableau**
+## 🧑‍🎓 Role:
+**Junior Business Intelligence Analyst**
+---
+## ✅ Context and Purpose
+- Completed as part of **Sprint 4** of the TripleTen Business Intelligence Program.
+- Simulated a consulting engagement for a **fictional Superstore** facing potential bankruptcy.
+- Objective: Leverage **Tableau** to create interactive visualizations and dashboards to identify:
+  - Profitability drivers and risks
+  - Advertising opportunities
+  - High-return products and customer segments
+- Deliver business insights and actionable recommendations based on visual analytics.
+---
+## 🛠️ Tools and Techniques Used
+- **Tableau Public** for data visualization and dashboard creation.
+- Data integration via **LEFT JOIN** to combine returns data with order data.
+- Visual analytics techniques:
+  - Bar charts, scatter plots, heatmaps, line graphs, maps
+  - Calculated fields (e.g., return rates, profit ratios)
+- Analytical reasoning based on **Return on Ad Spend (ROAS)** and **profitability metrics**.
+---
+## 📅 Timeline
+- Project Duration: ~3 hours 10 minutes
+- Completed and submitted on: 01-20-2025
+---
