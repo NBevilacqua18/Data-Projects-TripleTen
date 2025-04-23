@@ -1,0 +1,27 @@
+# 📄 Contextual Requirements Document
+## 🎯 Project Title:
+**Superstore Returns Analysis – Storytelling with Data**
+## 🧑‍🎓 Role:
+**Junior Business Intelligence Analyst**
+---
+## ✅ Context and Purpose
+- This project was completed as part of the **TripleTen Data Analytics Bootcamp**.
+- It represents **Sprint 5** in the Business Intelligence Analyst track, focusing on **storytelling with data**.
+- The objective was to uncover **root causes behind high product return rates** at the fictional Superstore and present findings using **data storytelling techniques**.
+- The focus was on building a **narrative-driven Tableau dashboard and story**, enabling the **CEO** to monitor returns, identify risk factors, and take action based on visual insights.
+---
+## 📊 Project Scope
+- Integrate **Orders** and **Returns** data using **LEFT JOIN** in Tableau.
+- Conduct **root cause analysis** of returns by creating worksheets that explore:
+  - Product categories, subcategories, customers, geographic regions, time periods.
+- Design **three dashboard mockups** (low-fidelity sketches) and build the final version in Tableau.
+- Create a **Tableau Story** that:
+  - Presents key insights.
+  - Walks through the dashboard components.
+  - Explains return metrics and identifies actions based on data.
+- Prepare a **3–5 minute presentation** (screen recording or PDF) summarizing findings and demonstrating dashboard usage.
+---
+## 📅 Timeline
+- Estimated Time: **3 hours**
+- Completed and submitted on: **03-10-2025**
+---
