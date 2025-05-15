@@ -1,4 +1,4 @@
-# 🛍️ Shopify App Analysis – Power BI Report
+# 🛍️ Shopify App Analysis
 ## 🚀 Project Overview
 This project represents a key milestone in my **Business Intelligence (BI)** journey with **TripleTen**. As a BI Analyst, I leveraged **Power BI** to explore the Shopify app ecosystem, examining patterns in app performance, user engagement, and developer responsiveness.
 The **Shopify App Store** hosts a wide range of applications that support online retailers. My goal in this project was to uncover what makes certain apps more successful and how developer behavior, such as responding to reviews, impacts user ratings and overall app performance.
