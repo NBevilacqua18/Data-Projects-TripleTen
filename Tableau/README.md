@@ -1,4 +1,4 @@
-# 📊 Superstore Data Visualization Project – Sprint 4 (Tableau)
+# 📊 Superstore Data Visualization Project
 ## 🧑‍🎓 Role
 **Junior Business Intelligence Analyst**
 ---
@@ -56,7 +56,7 @@ All visualizations were published to Tableau Public and used to support genuine 
 - ✅ Data files and supporting documents in ZIP archive
 ---
 ## 🗓 Completion Date
-**Sprint 4 Completed – January 2025**
+**January 2025**
 ---
 ## 🧾 Summary
 This project showcased my ability to use **Tableau** as a strategic analytics tool to uncover profit opportunities, flag inefficiencies, and support high-impact business decisions. It represents my first full-cycle visual analytics engagement as part of the TripleTen BI program.
