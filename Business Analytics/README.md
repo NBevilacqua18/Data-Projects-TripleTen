@@ -86,7 +86,7 @@ The dataset was provided via the `raw_user_activity` tab in a Google Spreadsheet
 | `raw_user_activity` | Original dataset with all user activity                   |
 ---
 ## 🗓 Completion Date
-**Sprint 3 Completed – December 2024**
+**December 2024**
 ---
 ## 🔗 Submission Link
 [🔗 View Google Sheets Project (View-Only Link)](https://docs.google.com/spreadsheets/d/1anwYjX51qRU3DX8KM4Q_Z7qsv0DYDHz6in5pueje3Vw/edit?usp=sharing)  
