@@ -1,4 +1,4 @@
-# 🛒 Business Analytics Project – Sprint 3: Turning Event Logs into Business Metrics
+# 🛒 Business Analytics Project: Turning Event Logs into Business Metrics
 ## 🧑‍🎓 Role
 **Junior Business Intelligence Analyst**
 ---
